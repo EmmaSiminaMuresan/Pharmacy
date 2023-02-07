@@ -1,0 +1,72 @@
+1 Atordapin 5 20 30 comprimate-filmate 16.50 YES
+2 Atordapin 10 70 30 comprimate-filmate 17.10 YES
+3 Inkontan 30 55 50 comprimate-filmate 32.70 YES
+4 Oxidolor 10 30 30 comprimat-cu-eliberare-prelungita 26.40 YES
+5 Oxidolor 80 40 30 comprimat-cu-eliberare-prelungita 198.00 YES
+6 Tobrex 0 100 0 Unguent 3.06 YES
+7 Elocom 0 100 0 Unguent 3.53 YES
+8 Daivobet 0 100 0 Unguent 53.86 YES
+9 Aerius 2.5 30 10 comprimate-orodispersabile 6.00 YES
+10 Aerius 5 15 30 comprimate-filmate 12.00 YES
+11 Nasonex 0 40 0 spray-nazal 22.71 YES
+12 Fokusin 0 20 30 capsule 21.90 YES
+13 Azitrox 500 15 3 comprimate-filmate 16.74 YES
+14 Estan 10 30 30 comprimate-filmate 11.90 YES
+15 Vertimed 24 20 20 comprimate 13.20 YES
+16 Vertimed 16 40 20 comprimate 9.60 YES
+17 Humisec 20 20 0 sirop 4.85 YES
+18 Plavix 300 30 4 comprimate-filmate 125.40 YES
+19 Plavix 75 40 30 comprimate-filmate 29.40 YES
+20 Implicor 50 10 112 comprimate-filmate 223.44 YES
+21 ACC 200 30 20 plicuri-pulbere 23.10 NO
+22 ACC 200 30 20 capsule 17.40 NO
+23 ACC 600 20 10 comprimate-efervescente 20.90 NO
+24 Advil 200 30 10 drajeuri 8.90 NO
+25 Advil-Raceala-si-Gripa 200 10 10 drajeuri 21.00 NO
+26 ALLE 10 50 100 gel 30.30 NO
+27 ALLE 10 40 25 gel 13.40 NO
+28 Alopexy-Solutie-Cutanata 5 15 60 solutie 54.40 NO
+29 Antinevralgic-Forte 0 40 20 comprimate 13.38 NO
+30 Antinevralgic-Sinus 0 50 12 comprimate-filmate 10.40 NO
+31 Aspenter 100 20 28 comprimate 12.50 NO
+32 Aspirin-Cardio 100 10 28 comprimate 12.40 NO
+33 Calcivid 0 30 30 comprimate  20.90 NO
+34 Betadine 10 5 20 Unguent 12.10 NO
+35 Bilobil-Forte 40 20 60 capsule 19.20 NO
+36 Bilobil-Intens 120 20 30 capsule  48.70 NO
+37 Bixtonim-Xylo 0 50 10 Spray-Nazal 11.00 NO
+38 Caffetin 0 15 12 comprimate 9.40 NO
+39 Calgel 0 30 10 Gel-Gingival 14.40 NO
+40 Canesten 10 30 0 Crema 23.90 NO
+41 Clafen 0 20 40 Crema 8.50 NO
+42 Coldrex-MaxGrip-Fructe-de-padure 10 20 10 plicuri 17.70 NO
+43 Coldrex-MaxGrip-Lemon 10 20 10 plicuri NO
+44 Colebil 10 10 20 drajeuri 11.90 NO
+45 Exoderil 0 20 15 Crema 26.40 NO
+46 Faringosept-Fructe-de-Padure 10 30 10 comprimate 8.90 NO
+47 Faringosept-Lamaie 10 20 10 comprimate 6.90 NO
+48 Ibalgin-Rapid 400 20 12 comprimate 18.70 NO
+49 Ibutop 0 20 50 gel 19.40 NO
+50 Magne-B6 0 40 50 drajeuri 26.30 NO
+51 Nurofen 200 10 24 drajeuri 19.90 NO
+52 Nurofen-Express 200 10 20 capsule-moi 23.20 NO
+53 Olynth-HA 0 20 0 Spray-Nazal 15.50 NO
+54 Stodal 0 20 200 Sirop 20.90 NO
+55 Strepsils-Mentol 0 20 24 pastile 15.70 NO
+56 Strepsils-Miere-si-Lamaie  0 20 24 pastile 14.40 NO
+57 Tantum-Verde-Lemon 3 30 20 pastile 14.90 NO
+58 Theraflu-Extra-Raceala-si-Gripa 0 10 10 plicuri 20.90 NO
+59 Theraflu-Raceala-si-Tuse 0 10 16 Capsule 18.80 NO
+60 Triferment 0 20 30 comprimate 13.40 NO
+61 Voltaren-Emulgel 11.6 30 50 gel 12.90 NO
+62 Plasturi-transpareni-rezisteni-la-apa-Dermaplast 0 50 20 bucati 11.39 NO
+63 Vitamina-C 180 20 20 capsule 5.40 NO
+64 Paracetamol 500 40 20 comprimate 1.89 NO
+65 Plasturi-sterili-pe-material-textil-Medcare 0 40 20 bucati 3.48 NO
+66 Mostra-pasta-de-dinti-ELMEX-Sensitive 0 20 20 mostra 0 NO
+67 Mostra-Cerave-Moist-cream 0 20 20 mostra 0 NO
+
+
+
+
+
