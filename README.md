@@ -91,6 +91,5 @@ This is a comprehensive pharmacy management system developed using **C**. The sy
 
 ## Acknowledgments
 
-- **Developers**: Muresan Emma Simina, Sucala Paula Ilinca.
 - **Institution**: Technical University of Cluj-Napoca.
 
